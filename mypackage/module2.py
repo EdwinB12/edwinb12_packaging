@@ -1,8 +1,8 @@
 """
 author: EdwinB12
 email: w.edwin.brown@outlook.com
-license: MIT 
-This module contains some clever code 
+license: MIT
+This module contains some clever code
 """
 import numpy as np
 from mypackage import mymodule
